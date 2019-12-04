@@ -1,6 +1,6 @@
 ZInstabot
 
-An open-source Instagram Bot for Linux.
+An Instagram Bot for Linux.
 
 The script requires working network connection to work. You Need Selenium Web Driver Too.
 
